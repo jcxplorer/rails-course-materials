@@ -19,4 +19,7 @@ Except where otherwise mentioned, you can presume that the authors are:
 
 h2. Generating The Slides
 
-TODO: Add information about Scarlet
+Install Scarlet with:
+<pre>sudo gem install scarlet</pre>
+and run:
+<pre>rake slides</pre>
